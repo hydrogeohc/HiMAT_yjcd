@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.cred.*
+*.egg-info/
+*.h5
+*.pkl
